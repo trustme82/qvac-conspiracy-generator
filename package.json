@@ -1,0 +1,12 @@
+{
+  "name": "qvac-conspiracy-generator",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "src/conspiracy.js",
+  "scripts": {
+    "gui": "node src/conspiracy.js"
+  },
+  "dependencies": {
+    "@qvac/sdk": "^0.19.1"
+  }
+}
